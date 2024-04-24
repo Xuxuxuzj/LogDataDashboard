@@ -1,0 +1,154 @@
+Signal Magnitude
+Coil
+Completed Scans
+Compressor drive/communication error (minutes) [0=OK, > 0 = alarm ]
+Compressor pressure alarm  (minutes) [0=OK, > 0 = alarm]
+Compressor temperature alarm (minutes) [0=OK, > 0 = alarm]
+Cryo Malfunction (minutes)
+Cryo Switch (0=On, 1=Off)
+Delay
+Device
+Device Temperature Average [C]
+ERDU Battery test status [0=OK; 1=One of battery tests ;2=Both the battery tests failed ]
+End Time
+Exam ID
+Exam Room Humidity (%)
+Exam Room Temperature (C)
+Exam start time
+Expected power TX1 (W)
+Expected power TX2 (W)
+F0 coarse max diff
+F0 fc ratio
+F0 fine max diff
+F0 phase coarse
+F0 phase fine
+F0+ coarse max diff
+F0+ fc ratio
+F0+ fine max diff
+F0+ phase coarse
+F0+ phase fine
+F0- coarse max diff
+F0- fc ratio
+F0- fine max diff
+F0- phase coarse
+F0- phase fine
+FWD amp power TX1 (mV^2)
+FWD amp power TX2 (mV^2)
+FWD circ power TX1 (mV^2)
+FWD circ power TX2 (mV^2)
+FWD phase TX1 (deg)
+FWD phase TX2 (deg)
+FWD power TX1 (mV^2)
+FWD power TX2 (mV^2)
+Factor Responses Detected (%)
+Gain
+HOST-MDC communication status [0=OK, 1=NOK]
+Helium Pressure 3H Average (mbar)
+Interlock test status [0=OK, 1=alarm ]
+LCC Flow of the (primary) incoming flow [liter/minute]
+LCC Helium Compressor Temperature of the LCC[C]
+LCC T1 Temperature of the LCC[C]
+LCC Temp. of the Helium Compressor [Celsius degree]
+LCCGradAmp ControlOutput
+LCCGradAmp ErrorCode
+LCCGradAmp Filling pressure of the Gradient amplifier cooling circuit[bar]
+LCCGradAmp IntegrationTime
+LCCGradAmp OperatingHours
+LCCGradAmp ProportionalGain
+LCCGradAmp TempSetpoint [C]
+LCCGradAmp Temperature of the Gradient amplifier cooling circuit[C]
+LCCGradAmp ValvePosition
+LCCGradCoil ControlOutput
+LCCGradCoil ErrorCode
+LCCGradCoil Filling pressure of the Gradient Coil cooling circuit[bar]
+LCCGradCoil IntegrationTime
+LCCGradCoil OperatingHours
+LCCGradCoil ProportionalGain
+LCCGradCoil Temperature of the Gradient Coil cooling circuit[C]
+LCCGradCoil ValvePosition
+LCCGradCoilTempSetpoint [C]
+LCCSecondaryLoop ControlOutput
+LCCSecondaryLoop ErrorCode
+LCCSecondaryLoop Filling pressure of the Secondary cooling circuit[bar]
+LCCSecondaryLoop IntegrationTime
+LCCSecondaryLoop OperatingHours
+LCCSecondaryLoop ProportionalGain
+LCCSecondaryLoop TempSetpoint [C]
+LCCSecondaryLoop ValvePosition
+LCCSecondaryLoopTemperature of the Secondary cooling circuit[C]
+Latched Error 1
+Latched Error 2
+Latched Error 3
+Latched Error 4
+Link
+Link Error
+Magnet Bath Heater Power daily test  [mWatt]
+Magnet DPS status (minutes) [0=OK,  >0 =Alarm status]
+Magnet DPS status [days]
+Magnet Field Sensor [0=On Field, 1=Off Field]
+Magnet Helium maximum pressure (last 24 hours) [mbar]
+Magnet configured Helium Refill level (%)
+Magnet helium fill status [0=OK;1=He fill required;2=He level too low]
+Magnet helium level value [%]
+Measured power TX1 (W)
+Measured power TX2 (W)
+Noise (uV)
+Noise Fraction
+Noise Power Time Sample
+Number Spikes Above Threshold 1
+Number Spikes Above Threshold 2
+Number Spikes Above Threshold 3
+Number Spikes Expected
+Number Spikes Suppressed
+PU1 b1 (uT)
+PU2 b1 (uT)
+Phase
+Portal
+Power Above Threshold 1
+Power Above Threshold 2
+Power Above Threshold 3
+Protocol
+QPI
+QPI After Correction
+Quench Heaters status [0=OK;1=WARNING;2=CRICTICAL]
+RFL power TX1 (mV^2)
+RFL power TX2 (mV^2)
+Receive Coil 11 Amplitude (mV)
+Receive Coil 11 Offset (kHz)
+Receive Coil 11 Q
+Receive Coil 22 Amplitude (mV)
+Receive Coil 22 Offset (kHz)
+Receive Coil 22 Q
+Receiver
+Result
+Scan Index
+Scanner
+SerNr
+Set f0 (Hz)
+Start Time
+Started Scans
+TX 1 Ratio
+TX 2 Ratio
+TX1 Ratio
+TX2 Ratio
+Tech Room Humidity (%)
+Tech Room Temperature (C)
+Test
+Time
+Tune Coil 11 Amplitude (mV)
+Tune Coil 11 Offset (kHz)
+Tune Coil 11 Q
+Tune Coil 22 Amplitude (mV)
+Tune Coil 22 Offset (kHz)
+Tune Coil 22 Q
+Unnamed: 14
+VDH Average [V]
+VDL Average [V]
+VLNA Average [V]
+VP1V0 Average [V]
+VP2V5 Average [V]
+VP3V3 Average [V]
+VPIN Average [V]
+VSUP Average [V]
+vswr TX1
+vswr TX2

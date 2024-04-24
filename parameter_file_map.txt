@@ -1,0 +1,218 @@
+Measured power TX1 (W): data\Data_Omega\Amp Power\data_cleaned.csv
+TX1 Ratio: data\Data_Ingenia\Amp Power\data.csv
+Expected power TX1 (W): data\Data_Omega\Amp Power\data_cleaned.csv
+Expected power TX2 (W): data\Data_Omega\Amp Power\data_cleaned.csv
+Exam ID: data\Data_Omega\Tune Coil\data.csv
+Time: data\Data_Omega\Tune Coil\data.csv
+Date: data\Data_Omega\Tune Coil\data.csv
+TX2 Ratio: data\Data_Ingenia\Amp Power\data.csv
+Measured power TX2 (W): data\Data_Omega\Amp Power\data_cleaned.csv
+F0- phase coarse: data\Data_Omega\CF\TFINT.ConnQBC.PU\channel_Signal1.csv
+F0- phase fine: data\Data_Omega\CF\TFINT.ConnQBC.PU\channel_Signal1.csv
+F0 phase coarse: data\Data_Omega\CF\TFINT.ConnQBC.PU\channel_Signal1.csv
+F0+ fc ratio: data\Data_Omega\CF\TFINT.ConnQBC.PU\channel_Signal1.csv
+Coil: data\Data_Omega\Time Align\TEST1_RI\channel_16.csv
+F0+ phase fine: data\Data_Omega\CF\TFINT.ConnQBC.PU\channel_Signal1.csv
+Channel: data\Data_Omega\Time Align\TEST1_RI\channel_16.csv
+F0 fc ratio: data\Data_Omega\CF\TFINT.ConnQBC.PU\channel_Signal1.csv
+F0- fc ratio: data\Data_Omega\CF\TFINT.ConnQBC.PU\channel_Signal1.csv
+F0+ phase coarse: data\Data_Omega\CF\TFINT.ConnQBC.PU\channel_Signal1.csv
+F0 phase fine: data\Data_Omega\CF\TFINT.ConnQBC.PU\channel_Signal1.csv
+Ch13 Magnitude (mV): data\Data_Omega\Channel Magnitude\TEST1_RI\TEST1_RI_channel_13.csv
+Ch15 Magnitude (mV): data\Data_Omega\Channel Magnitude\TEST1_RI\TEST1_RI_channel_15.csv
+Ch11 Magnitude (mV): data\Data_Omega\Channel Magnitude\TEST1_RI\TEST1_RI_channel_11.csv
+Ch9 Magnitude (mV): data\Data_Omega\Channel Magnitude\TEST1_RI\TEST1_RI_channel_9.csv
+Ch12 Magnitude (mV): data\Data_Omega\Channel Magnitude\TEST1_RI\TEST1_RI_channel_12.csv
+Ch1 Magnitude (mV): data\Data_Omega\Channel Magnitude\KNEE_TR\KNEE_TR_channel_1.csv
+Ch16 Magnitude (mV): data\Data_Omega\Channel Magnitude\TEST1_RI\TEST1_RI_channel_16.csv
+Ch14 Magnitude (mV): data\Data_Omega\Channel Magnitude\TEST1_RI\TEST1_RI_channel_14.csv
+Ch4 Magnitude (mV): data\Data_Omega\Channel Magnitude\TEST1_RI\TEST1_RI_channel_4.csv
+Ch7 Magnitude (mV): data\Data_Omega\Channel Magnitude\TEST1_RI\TEST1_RI_channel_7.csv
+Ch10 Magnitude (mV): data\Data_Omega\Channel Magnitude\TEST1_RI\TEST1_RI_channel_10.csv
+Ch3 Magnitude (mV): data\Data_Omega\Channel Magnitude\TEST1_RI\TEST1_RI_channel_3.csv
+Ch8 Magnitude (mV): data\Data_Omega\Channel Magnitude\TEST1_RI\TEST1_RI_channel_8.csv
+Ch6 Magnitude (mV): data\Data_Omega\Channel Magnitude\TEST1_RI\TEST1_RI_channel_6.csv
+Ch2 Magnitude (mV): data\Data_Omega\Channel Magnitude\TEST1_RI\TEST1_RI_channel_2.csv
+Ch5 Magnitude (mV): data\Data_Omega\Channel Magnitude\TEST1_RI\TEST1_RI_channel_5.csv
+Phase: data\Data_Omega\Control Loop\TX_channel_2.csv
+Gain: data\Data_Omega\Control Loop\TX_channel_2.csv
+Delay: data\Data_Omega\Time Align\TEST1_RI\channel_16.csv
+Cryo Malfunction (minutes): data\Data_Omega\Cryo Malfunction\data.csv
+Cryo Switch (0=On, 1=Off): data\Data_Omega\Cryo Switch\data.csv
+Scanner: data\Data_Omega\Device\TEST1_RI.csv
+SerNr: data\Data_Omega\Device\TEST1_RI.csv
+Device: data\Data_Omega\STT Link Error\data.csv
+Exam start time: data\Data_Omega\Exam\TEST1_RI.csv
+Coil ANTERIOR: data\Data_Omega\Exam\data.csv
+Coil BODY_QUAD: data\Data_Omega\Exam\data.csv
+Coil NVC_HEAD: data\Data_Omega\Exam\NVC_HEAD.csv
+Coil SENSE_KNEE_16_ACI: data\Data_Omega\Exam\SENSE_KNEE_16_ACI.csv
+Coil SENSE_SMALL_EXTR_8_ACI: data\Data_Omega\Exam\SENSE_SMALL_EXTR_8_ACI.csv
+Coil KNEE_TR: data\Data_Omega\Exam\KNEE_TR.csv
+Coil HEAD1_32_DCI: data\Data_Omega\Exam\HEAD1_32_DCI.csv
+Started Scans: data\Data_Omega\Exam\data.csv
+Coil HEAD2_32_DCI: data\Data_Omega\Exam\HEAD2_32_DCI.csv
+Coil NVC_HEAD_NECK: data\Data_Omega\Exam\NVC_HEAD_NECK.csv
+Coil SENSE_ANKLE_8_ACI: data\Data_Omega\Exam\SENSE_ANKLE_8_ACI.csv
+Completed Scans: data\Data_Omega\Exam\data.csv
+Coil SENSE_WRIST_8_ACI: data\Data_Omega\Exam\SENSE_WRIST_8_ACI.csv
+Coil LMT_NEOHEADSPINE16_ACI: data\Data_Omega\Exam\LMT_NEOHEADSPINE16_ACI.csv
+Coil SENSE_BREAST_16_ACI: data\Data_Omega\Exam\SENSE_BREAST_16_ACI.csv
+Coil NVC_BASE: data\Data_Omega\Exam\NVC_BASE.csv
+Coil SENSE_SHOULDER8_DCI: data\Data_Omega\Exam\SENSE_SHOULDER8_DCI.csv
+Coil POSTERIOR: data\Data_Omega\Exam\POSTERIOR.csv
+Coil TEST1_RI: data\Data_Omega\Exam\TEST1_RI.csv
+Set f0 (Hz): data\Data_Omega\F0\data.csv
+Helium Pressure 3H Average (mbar): data\Data_Omega\Helium Avg Pressure\data.csv
+Exam Room Humidity (%): data\Data_Omega\Hum Exam Room\data.csv
+Tech Room Humidity (%): data\Data_Omega\Hum Tech Room\data.csv
+Latched Error 1: data\Data_Omega\Latched Error\data.csv
+Latched Error 3: data\Data_Omega\Latched Error\data.csv
+Latched Error 2: data\Data_Omega\Latched Error\data.csv
+Latched Error 4: data\Data_Omega\Latched Error\data.csv
+LCCSecondaryLoop OperatingHours: data\Data_Alpha\LCC\data.csv
+LCCSecondaryLoop ControlOutput: data\Data_Alpha\LCC\data.csv
+LCCSecondaryLoop Filling pressure of the Secondary cooling circuit[bar]: data\Data_Alpha\LCC\data.csv
+LCCSecondaryLoop ProportionalGain: data\Data_Alpha\LCC\data.csv
+LCC Flow of the (primary) incoming flow [liter/minute]: data\Data_Omega\LCC\data.csv
+LCCSecondaryLoop IntegrationTime: data\Data_Alpha\LCC\data.csv
+LCCSecondaryLoop TempSetpoint [C]: data\Data_Alpha\LCC\data.csv
+LCC Helium Compressor Temperature of the LCC[C]: data\Data_Omega\LCC\data.csv
+LCCSecondaryLoopTemperature of the Secondary cooling circuit[C]: data\Data_Alpha\LCC\data.csv
+LCCSecondaryLoop ErrorCode: data\Data_Alpha\LCC\data.csv
+LCCSecondaryLoop ValvePosition: data\Data_Alpha\LCC\data.csv
+Unnamed: 14: data\Data_Alpha\LCC\data.csv
+LCC T1 Temperature of the LCC[C]: data\Data_Omega\LCC\data.csv
+Magnet helium fill status [0=OK;1=He fill required;2=He level too low]: data\Data_Omega\Magnet Daily Monitor\data.csv
+Magnet DPS status (minutes) [0=OK,  >0 =Alarm status]: data\Data_Omega\Magnet Daily Monitor\data.csv
+Magnet helium level value [%]: data\Data_Omega\Magnet Daily Monitor\data.csv
+Magnet configured Helium Refill level (%): data\Data_Omega\Magnet Daily Monitor\data.csv
+Compressor pressure alarm  (minutes) [0=OK, > 0 = alarm]: data\Data_Omega\Magnet Daily Monitor\data.csv
+Compressor drive/communication error (minutes) [0=OK, > 0 = alarm ]: data\Data_Omega\Magnet Daily Monitor\data.csv
+Magnet Bath Heater Power daily test  [mWatt]: data\Data_Omega\Magnet Daily Monitor\data.csv
+Magnet DPS status [days]: data\Data_Omega\Magnet Daily Monitor\data.csv
+Magnet Field Sensor [0=On Field, 1=Off Field]: data\Data_Omega\Magnet Daily Monitor\data.csv
+Interlock test status [0=OK, 1=alarm ]: data\Data_Omega\Magnet Daily Monitor\data.csv
+Quench Heaters status [0=OK;1=WARNING;2=CRICTICAL]: data\Data_Omega\Magnet Daily Monitor\data.csv
+Compressor temperature alarm (minutes) [0=OK, > 0 = alarm]: data\Data_Omega\Magnet Daily Monitor\data.csv
+Magnet Helium maximum pressure (last 24 hours) [mbar]: data\Data_Omega\Magnet Daily Monitor\data.csv
+ERDU Battery test status [0=OK; 1=One of battery tests ;2=Both the battery tests failed ]: data\Data_Omega\Magnet Daily Monitor\data.csv
+Noise (uV): data\Data_Omega\Noise\TEST1_RI\channel_9.csv
+F0- coarse max diff: data\Data_Omega\Phase Diff\TFINT.ConnQBC.PU\channel_Signal1.csv
+F0- fine max diff: data\Data_Omega\Phase Diff\TFINT.ConnQBC.PU\channel_Signal1.csv
+F0+ coarse max diff: data\Data_Omega\Phase Diff\TFINT.ConnQBC.PU\channel_Signal1.csv
+F0+ fine max diff: data\Data_Omega\Phase Diff\TFINT.ConnQBC.PU\channel_Signal1.csv
+F0 fine max diff: data\Data_Omega\Phase Diff\TFINT.ConnQBC.PU\channel_Signal1.csv
+F0 coarse max diff: data\Data_Omega\Phase Diff\TFINT.ConnQBC.PU\channel_Signal1.csv
+Portal: data\Data_Omega\PSU Voltage\SENSE_SHOULDER8_DCI.csv
+Device Temperature Average [C]: data\Data_Omega\PSU Temperature\SENSE_SHOULDER8_DCI.csv
+VDL Average [V]: data\Data_Omega\PSU Voltage\SENSE_SHOULDER8_DCI.csv
+VDH Average [V]: data\Data_Omega\PSU Voltage\SENSE_SHOULDER8_DCI.csv
+VLNA Average [V]: data\Data_Omega\PSU Voltage\SENSE_SHOULDER8_DCI.csv
+VPIN Average [V]: data\Data_Omega\PSU Voltage\SENSE_SHOULDER8_DCI.csv
+PU1 b1 (uT): data\Data_Omega\PU\data.csv
+PU2 b1 (uT): data\Data_Omega\PU\data.csv
+FWD circ power TX2 (mV^2): data\Data_Omega\RCU\data.csv
+vswr TX1: data\Data_Omega\RCU\data.csv
+RFL power TX2 (mV^2): data\Data_Omega\RCU\data.csv
+FWD phase TX2 (deg): data\Data_Omega\RCU\data.csv
+FWD power TX1 (mV^2): data\Data_Omega\RCU\data.csv
+RFL power TX1 (mV^2): data\Data_Omega\RCU\data.csv
+FWD power TX2 (mV^2): data\Data_Omega\RCU\data.csv
+FWD phase TX1 (deg): data\Data_Omega\RCU\data.csv
+vswr TX2: data\Data_Omega\RCU\data.csv
+FWD circ power TX1 (mV^2): data\Data_Omega\RCU\data.csv
+Protocol: data\Data_Omega\Scan\data.csv
+Start Time: data\Data_Omega\Scan\data.csv
+End Time: data\Data_Omega\Scan\data.csv
+Scan Index: data\Data_Omega\Scan\data.csv
+Number Spikes Suppressed: data\Data_Omega\Spikes\data.csv
+Power Above Threshold 3: data\Data_Omega\Spikes\data.csv
+Number Spikes Above Threshold 2: data\Data_Omega\Spikes\data.csv
+QPI: data\Data_Omega\Spikes\data.csv
+Power Above Threshold 2: data\Data_Omega\Spikes\data.csv
+Noise Fraction: data\Data_Omega\Spikes\data.csv
+Number Spikes Above Threshold 3: data\Data_Omega\Spikes\data.csv
+Power Above Threshold 1: data\Data_Omega\Spikes\data.csv
+Number Spikes Expected: data\Data_Omega\Spikes\data.csv
+Factor Responses Detected (%): data\Data_Omega\Spikes\data.csv
+QPI After Correction: data\Data_Omega\Spikes\data.csv
+Number Spikes Above Threshold 1: data\Data_Omega\Spikes\data.csv
+Noise Power Time Sample: data\Data_Omega\Spikes\data.csv
+Link Error: data\Data_Omega\STT Link Error\data.csv
+Result: data\Data_Omega\STT Results\data.csv
+Test: data\Data_Omega\STT Results\data.csv
+Exam Room Temperature (C): data\Data_Omega\Temp Exam Room\data.csv
+Tech Room Temperature (C): data\Data_Omega\Temp Tech Room\data.csv
+Receiver: data\Data_Omega\Time Align\TEST1_RI\channel_16.csv
+Link: data\Data_Omega\Time Align\TEST1_RI\channel_16.csv
+Receive Coil 11 Amplitude (mV): data\Data_Omega\Tune Coil\data.csv
+Tune Coil 22 Offset (kHz): data\Data_Omega\Tune Coil\data.csv
+Receive Coil 11 Q: data\Data_Omega\Tune Coil\data.csv
+Tune Coil 11 Amplitude (mV): data\Data_Omega\Tune Coil\data.csv
+Tune Coil 22 Q: data\Data_Omega\Tune Coil\data.csv
+Tune Coil 22 Amplitude (mV): data\Data_Omega\Tune Coil\data.csv
+Receive Coil 22 Q: data\Data_Omega\Tune Coil\data.csv
+Receive Coil 22 Offset (kHz): data\Data_Omega\Tune Coil\data.csv
+Tune Coil 11 Offset (kHz): data\Data_Omega\Tune Coil\data.csv
+Tune Coil 11 Q: data\Data_Omega\Tune Coil\data.csv
+Receive Coil 11 Offset (kHz): data\Data_Omega\Tune Coil\data.csv
+Receive Coil 22 Amplitude (mV): data\Data_Omega\Tune Coil\data.csv
+Ch19 Magnitude (mV): data\Data_Omega\Channel Magnitude\ANTERIOR\ANTERIOR_channel_19.csv
+Ch21 Magnitude (mV): data\Data_Omega\Channel Magnitude\ANTERIOR\ANTERIOR_channel_21.csv
+Ch17 Magnitude (mV): data\Data_Omega\Channel Magnitude\ANTERIOR\ANTERIOR_channel_17.csv
+Ch32 Magnitude (mV): data\Data_Omega\Channel Magnitude\ANTERIOR\ANTERIOR_channel_31.csv
+Ch27 Magnitude (mV): data\Data_Omega\Channel Magnitude\ANTERIOR\ANTERIOR_channel_27.csv
+Ch29 Magnitude (mV): data\Data_Omega\Channel Magnitude\ANTERIOR\ANTERIOR_channel_29.csv
+Ch18 Magnitude (mV): data\Data_Omega\Channel Magnitude\ANTERIOR\ANTERIOR_channel_18.csv
+Ch34 Magnitude (mV): data\Data_Omega\Channel Magnitude\ANTERIOR\ANTERIOR_channel_33.csv
+Ch28 Magnitude (mV): data\Data_Omega\Channel Magnitude\ANTERIOR\ANTERIOR_channel_28.csv
+Ch22 Magnitude (mV): data\Data_Omega\Channel Magnitude\ANTERIOR\ANTERIOR_channel_22.csv
+Ch23 Magnitude (mV): data\Data_Omega\Channel Magnitude\ANTERIOR\ANTERIOR_channel_23.csv
+Ch26 Magnitude (mV): data\Data_Omega\Channel Magnitude\ANTERIOR\ANTERIOR_channel_26.csv
+Ch33 Magnitude (mV): data\Data_Omega\Channel Magnitude\ANTERIOR\ANTERIOR_channel_32.csv
+Ch36 Magnitude (mV): data\Data_Omega\Channel Magnitude\ANTERIOR\ANTERIOR_channel_35.csv
+Ch20 Magnitude (mV): data\Data_Omega\Channel Magnitude\ANTERIOR\ANTERIOR_channel_20.csv
+Ch31 Magnitude (mV): data\Data_Omega\Channel Magnitude\ANTERIOR\ANTERIOR_channel_36.csv
+Ch35 Magnitude (mV): data\Data_Omega\Channel Magnitude\ANTERIOR\ANTERIOR_channel_34.csv
+Ch30 Magnitude (mV): data\Data_Omega\Channel Magnitude\ANTERIOR\ANTERIOR_channel_30.csv
+Ch24 Magnitude (mV): data\Data_Omega\Channel Magnitude\ANTERIOR\ANTERIOR_channel_24.csv
+Ch25 Magnitude (mV): data\Data_Omega\Channel Magnitude\ANTERIOR\ANTERIOR_channel_25.csv
+Coil FLEX_M_ACI: data\Data_Ingenia\Exam copy\FLEX_M_ACI.csv
+Coil DT_MN_RAPID_BM: data\Data_Ingenia\Exam copy\DT_MN_RAPID_BM.csv
+Coil P_140: data\Data_Ingenia\Exam copy\P_140.csv
+Coil MICRO_23_ACI: data\Data_Ingenia\Exam copy\MICRO_23_ACI.csv
+Coil SENSE_BREAST_7M_ACI: data\Data_Ingenia\Exam copy\SENSE_BREAST_7M_ACI.csv
+Coil FLEX_L_ACI: data\Data_Ingenia\Exam copy\FLEX_L_ACI.csv
+Coil FLEX_S_ACI: data\Data_Omega\Exam\FLEX_S_ACI.csv
+Coil OTHER_13C: data\Data_Ingenia\Exam copy\OTHER_13C.csv
+Coil DT_1H_RAPID_BM: data\Data_Ingenia\Exam copy\DT_1H_RAPID_BM.csv
+LCCGradAmp ProportionalGain: data\Data_Omega\LCC\data.csv
+LCCGradAmp Temperature of the Gradient amplifier cooling circuit[C]: data\Data_Omega\LCC\data.csv
+LCCGradCoil Temperature of the Gradient Coil cooling circuit[C]: data\Data_Omega\LCC\data.csv
+LCCGradCoil ControlOutput: data\Data_Omega\LCC\data.csv
+LCCGradCoilTempSetpoint [C]: data\Data_Omega\LCC\data.csv
+LCCGradAmp TempSetpoint [C]: data\Data_Omega\LCC\data.csv
+LCCGradCoil Filling pressure of the Gradient Coil cooling circuit[bar]: data\Data_Omega\LCC\data.csv
+LCCGradCoil ValvePosition: data\Data_Omega\LCC\data.csv
+LCCGradAmp Filling pressure of the Gradient amplifier cooling circuit[bar]: data\Data_Omega\LCC\data.csv
+LCCGradAmp IntegrationTime: data\Data_Omega\LCC\data.csv
+LCCGradAmp ErrorCode: data\Data_Omega\LCC\data.csv
+LCCGradAmp ControlOutput: data\Data_Omega\LCC\data.csv
+LCCGradCoil OperatingHours: data\Data_Omega\LCC\data.csv
+LCCGradCoil ProportionalGain: data\Data_Omega\LCC\data.csv
+LCCGradAmp ValvePosition: data\Data_Omega\LCC\data.csv
+LCCGradCoil ErrorCode: data\Data_Omega\LCC\data.csv
+LCCGradCoil IntegrationTime: data\Data_Omega\LCC\data.csv
+LCCGradAmp OperatingHours: data\Data_Omega\LCC\data.csv
+VP3V3 Average [V]: data\Data_Omega\PSU Voltage\SENSE_SHOULDER8_DCI.csv
+VP2V5 Average [V]: data\Data_Omega\PSU Voltage\SENSE_SHOULDER8_DCI.csv
+VSUP Average [V]: data\Data_Omega\PSU Voltage\SENSE_SHOULDER8_DCI.csv
+VP1V0 Average [V]: data\Data_Omega\PSU Voltage\SENSE_SHOULDER8_DCI.csv
+FWD amp power TX1 (mV^2): data\Data_Ingenia\RCU\data.csv
+FWD amp power TX2 (mV^2): data\Data_Ingenia\RCU\data.csv
+TX 1 Ratio: data\Data_Omega\Amp Power\data_cleaned.csv
+TX 2 Ratio: data\Data_Omega\Amp Power\data_cleaned.csv
+LCC Temp. of the Helium Compressor [Celsius degree]: data\Data_Omega\LCC\data.csv
+HOST-MDC communication status [0=OK, 1=NOK]: data\Data_Omega\Magnet Daily Monitor\data.csv
+Calibration Process: data\Data_Omega\Phase Diff\data.csv
