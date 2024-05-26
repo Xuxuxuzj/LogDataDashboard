@@ -24,14 +24,14 @@ def view_historical_data():
     
     st.write("## View Historical Data")
 
-    # Let user select a scanner
-    selected_scanner = st.selectbox("Select a Scanner", ["Alpha", "Omega", "Ingenia"])
+    # Let user select a scanner and a subsystem
+    col1, col2 = st.columns(2)
 
-    # Let user search for a parameter or select from the list
-    st.write("### Select a subsystem of the scanner to view its parameters")
+    with col1:
+        selected_scanner = st.selectbox("Select a Scanner", ["Alpha", "Omega", "Ingenia"])
 
-    # display the list of subsystems as options
-    selected_subsystem = st.selectbox("Select a Subsystem", list_subsystems)
+    with col2:
+        selected_subsystem = st.selectbox("Select a Subsystem", list_subsystems)
 
     # get the directory of the scanner
     scanner_dir = "Demo_Data\\" + "Data_" + selected_scanner + "\\" + selected_subsystem
